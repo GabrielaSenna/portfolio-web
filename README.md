@@ -1,16 +1,17 @@
 # Gabriela Moreira Senna — Portfólio
 
-**Desenvolvedora de Software** · Florianópolis/SC
+**Desenvolvedora de Software e Produto** · Florianópolis/SC
 
-🌐 Site: [gabrielasenna.github.io/portoflio-web-dev](https://gabrielasenna.github.io/portoflio-web-dev/) ·
+🌐 Site: [gabrielasenna.github.io/portfolio-web](https://gabrielasenna.github.io/portfolio-web/) ·
 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-moreira-senna) ·
 ✉️ gabrielamsenna@gmail.com
 
-Portfólio pessoal construído do zero em **HTML, CSS e JavaScript puro**, sem frameworks nem dependências. Reúne meus projetos de desenvolvimento web e UX/UI, trajetória profissional e canais de contato.
+Portfólio pessoal construído do zero em **HTML, CSS e JavaScript puro**, sem frameworks nem dependências. Reúne meus projetos, do problema de negócio ao código em produção, minha trajetória e canais de contato.
 
 ## O que você encontra no site
 
-- **Projetos:** Viventia Medical e Universal Juntas (sites publicados, do layout ao código), Dibba App (front-end e UX/UI de uma plataforma de ingressos) e Spots (wireframe de coworking).
+- **Allora Social Analytics (IA aplicada):** dashboard para o time de social media da Allora Company, hospedado em Cloudflare Workers e conectado à API da Meta, com agentes de IA (Claude) que classificam temas, analisam concorrentes e redigem o relatório com recomendações de ação. Pronto, com 7 contas conectadas e login gerenciado pelo Cloudflare.
+- **Projetos:** Viventia Medical e Universal Juntas (sites em produção em Next.js, do entendimento do negócio ao código), Dibba App (plataforma de ingressos que cofundei, com decisões de produto e liderança da equipe de desenvolvimento) e Spots (wireframe de coworking).
 - **Experiência, formação, habilidades e idiomas.**
 - **Contato:** WhatsApp, e-mail, LinkedIn e download do currículo em PDF.
 
